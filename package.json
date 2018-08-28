@@ -1,4 +1,20 @@
 {
-  "name": "posist_test",
-  "version": "1.0.0"
-  }
+  "name": "encrypted_nodes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashaBot/nothing_here.git"
+  },
+  "keywords": [],
+  "author": "shashaBot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashaBot/nothing_here/issues"
+  },
+  "homepage": "https://github.com/shashaBot/nothing_here#readme"
+}
